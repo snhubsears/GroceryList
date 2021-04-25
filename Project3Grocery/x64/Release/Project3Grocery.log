@@ -1,0 +1,8 @@
+﻿  proj3cpp.cpp
+C:\Users\K00L4ID\source\repos\Project3Grocery\Project3Grocery\proj3cpp.cpp(230,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  4 of 183 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    34 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project3Grocery.vcxproj -> C:\Users\K00L4ID\source\repos\Project3Grocery\x64\Release\Project3Grocery.exe
